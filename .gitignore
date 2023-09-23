@@ -1,0 +1,4 @@
+# 项目排除路径
+/project/target/
+/target/
+/target/scala-2.11/classes/
